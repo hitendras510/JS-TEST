@@ -54,3 +54,37 @@
 // console.log(typeof c );
 
 
+//3. loops
+
+// for(var i=1;i<51;i++){
+//     console.log(i);
+// }
+
+// let a = 1;
+// let sum = 0;
+// while(a<=10){
+//     sum = sum + a;
+//     a++;
+// } 
+// console.log(sum);
+
+
+// let str = "javascript";
+// for (const a of str) {
+//     console.log(a);
+// }
+
+
+// for(var a = 1; a<21;a++){
+//     if(a%2 === 0){
+//     }else{
+//         console.log(a);
+//     }
+// }
+
+// var a = 5;
+// do{
+//     console.log(a);
+//     a--;
+// }
+// while(a>0);
