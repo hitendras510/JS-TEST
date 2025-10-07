@@ -88,3 +88,9 @@
 //     a--;
 // }
 // while(a>0);
+
+let fact = 1;
+for (var a = 1; a < 6 ; a++) {
+    fact = fact * a;
+}
+console.log(fact);
