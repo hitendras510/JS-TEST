@@ -89,8 +89,21 @@
 // }
 // while(a>0);
 
-let fact = 1;
-for (var a = 1; a < 6 ; a++) {
-    fact = fact * a;
-}
-console.log(fact);
+// let fact = 1;
+// for (var a = 1; a < 6 ; a++) {
+//     fact = fact * a;
+// }
+// console.log(fact);
+
+// var hold = 1;
+// for (var i = 1; i < 4; i++) {
+//     var str = "";
+//     for( var j = 1; j < 4; j++){
+//         str += `${hold} `;
+//     hold++;
+//     }
+//     console.log(str);
+// }
+
+var arr = [1,2,3,4,5];
+for( arr)
