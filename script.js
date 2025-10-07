@@ -2,10 +2,8 @@
 // console.log(45*2-10);
 
 
-
 // const date = new Date();
 // console.log(date.getFullYear());
-
 
 
 // const first = "Hitendra"; 
@@ -13,20 +11,14 @@
 // console.log(`${first} ${last}`);
 
 
-
 // var a=12;
 // console.log(a);
 // var a=32;
 //  console.log(a);
 
-
-
 // var a = 12*12;
 // // console.log(a);
 // console.log(typeof a);
-
-
-
 
 // var age = 20;
 // if (age>18) {
@@ -38,12 +30,11 @@
 
 
 
+
 //2.var and data types 
 
 // const pi = Math.PI;
 // console.log(pi);
-
-
 
 
 // let a = 12;
@@ -51,5 +42,15 @@
 // console.log(a);
 
 
+// var a="25";
+// console.log(typeof a);
+
+
+// var a = "25";
+// var b = 25;
+// var c = true;
+// console.log(typeof a );
+// console.log(typeof b );
+// console.log(typeof c );
 
 
