@@ -1,3 +1,4 @@
+////BY SHREYAINS
 //1.basics
 // console.log(45*2-10);
 
@@ -105,5 +106,5 @@
 //     console.log(str);
 // }
 
-var arr = [1,2,3,4,5];
-for( arr)
+///////////////////////////// BY SCHOOL4U
+
