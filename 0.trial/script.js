@@ -103,8 +103,9 @@
 //         str += `${hold} `;
 //     hold++;
 //     }
-//     console.log(str);
+    // console.log(str);
 // }
 
 ///////////////////////////// BY SCHOOL4U
 
+//1.warm up
