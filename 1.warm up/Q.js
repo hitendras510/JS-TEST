@@ -17,5 +17,19 @@
 // console.log(combinedArr);
 
 //3. random integer btw 0 to 18
+// let randonNumber = Math.floor(Math.random()*19);
+// console.log(randonNumber);
 
 
+//4.  
+// let arr = [1,2,3,'H','i','t','e','n','d','r','a'];
+// let NewArr = arr.filter((item) => {
+//     if(typeof item === 'string') {
+//         return true;
+//     }else{
+//         return false;
+//     }
+// })
+// console.log(NewArr);
+
+//5.
