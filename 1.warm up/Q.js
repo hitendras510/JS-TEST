@@ -32,4 +32,8 @@
 // })
 // console.log(NewArr);
 
-//5.
+//5. max number in arr
+// let arr = [1,2,3,4,5,6,7,8,9];
+// console.log(Math.max(...arr));
+
+//6.
