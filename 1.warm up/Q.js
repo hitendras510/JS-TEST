@@ -1,4 +1,5 @@
 //BY SCHOOL4u
+
 //1.return last element of an array
 //  function getLastElement(LocalArr) {
 //     return LocalArr[LocalArr.length -1]
@@ -16,9 +17,12 @@
 // let combinedArr = arr1.concat(arr2)
 // console.log(combinedArr);
 
+
+
 //3. random integer btw 0 to 18
 // let randonNumber = Math.floor(Math.random()*19);
 // console.log(randonNumber);
+
 
 
 //4.  
@@ -32,8 +36,10 @@
 // })
 // console.log(NewArr);
 
+
 //5. max number in arr
 // let arr = [1,2,3,4,5,6,7,8,9];
 // console.log(Math.max(...arr));
+
 
 //6.
