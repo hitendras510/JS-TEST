@@ -44,3 +44,10 @@
 //     if(num%3===0) console.log(`${num} is odd`);
 
 // }
+
+
+//q5,
+for(let i=1;i<=100;i++){
+    if(i%3===0) console.log(`${i} is divisible by 3`);
+    if(i%5===0) console.log(`${i} is divisible by 5`);
+}
