@@ -25,9 +25,14 @@
 // }
 
 
-//q3,
-let i=1;
-while(i<16){
-    if(i%2!==0) console.log(i);
-    i++;
-}
+//q3,print odd using while
+// let i=1;
+// while(i<16){
+//     if(i%2!==0) console.log(i);
+//     i++;
+// }
+
+//q4, print multiplication table of 5
+// for(let i=1;i<=10;i++){
+//     console.log(`5*${i}=`,5*i);
+// }
