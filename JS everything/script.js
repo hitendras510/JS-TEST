@@ -36,3 +36,11 @@
 // for(let i=1;i<=10;i++){
 //     console.log(`5*${i}=`,5*i);
 // }
+
+//q4taking inpt from user
+// let num = prompt("Enter a number");
+// for(i=1; i<=num;i++){
+//     if(num%2===0) console.log(`${num} is even`);
+//     if(num%3===0) console.log(`${num} is odd`);
+
+// }
