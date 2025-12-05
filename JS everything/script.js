@@ -20,6 +20,14 @@
 
 //q2, print even num using for loop
 
-for(i=0; i<=10;i++){
-    if(i%2==0) console.log(i);
+// for(i=0;i<=10;i++){
+//     if(i%2===0) console.log(i);
+// }
+
+
+//q3,
+let i=1;
+while(i<16){
+    if(i%2!==0) console.log(i);
+    i++;
 }
