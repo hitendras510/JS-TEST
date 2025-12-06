@@ -68,3 +68,10 @@
 //     }
 //     if(count === 5)break;
 // }
+
+//q8 rest operator
+function abcd(a,b,c,...val){
+    console.log(a,b,c,val);
+}
+abcd(1,2,3,4,5);
+
