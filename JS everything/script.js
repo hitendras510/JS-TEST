@@ -80,6 +80,14 @@
 // let arr2 = [...arr];
 // console.log(arr2);
 
-//q10
-
-
+//q10 use rest parameter to accept any nim of scores and return the total
+// function score(...scores){
+// let total = 0;
+// scores.forEach(function(val){
+//     total += val;
+// });
+// return total;
+    
+// }
+// console.log(score(10,20,30,40,50)); 
+        
