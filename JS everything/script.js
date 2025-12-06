@@ -70,14 +70,16 @@
 // }
 
 //q8 rest operator
-function abcd(a,b,c,...val){
-    console.log(a,b,c,val);
-}
-abcd(1,2,3,4,5);
+// function abcd(a,b,c,...val){
+//     console.log(a,b,c,val);
+// }
+// abcd(1,2,3,4,5);
 
-//q9 spread operator
-let arr = [1,2,3,4,5];
-let arr2 = [...arr];
-console.log(arr2);
+// //q9 spread operator
+// let arr = [1,2,3,4,5];
+// let arr2 = [...arr];
+// console.log(arr2);
+
+//q10
 
 
