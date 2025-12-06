@@ -90,4 +90,9 @@
     
 // }
 // console.log(score(10,20,30,40,50)); 
-        
+
+//q11
+function findMax(...numbers){
+    return Math.max(...numbers);
+}
+console.log(findMax(1,2,3,4,5));
