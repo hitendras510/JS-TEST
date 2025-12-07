@@ -92,7 +92,24 @@
 // console.log(score(10,20,30,40,50)); 
 
 //q11
-function findMax(...numbers){
-    return Math.max(...numbers);
-}
-console.log(findMax(1,2,3,4,5));
+// function findMax(...numbers){
+//     return Math.max(...numbers);
+// }
+// console.log(findMax(1,2,3,4,5));
+
+// function abcd(val){
+//     val();
+// }
+
+// abcd(function(){
+//     console.log("hey")
+// });
+
+//bmi calculator
+// function bmi(weight,height){
+//     return weight/(height*height);
+// }
+
+// console.log(bmi(77.1, 6.3).toFixed(2))
+
+ 
